@@ -26,5 +26,3 @@ Example
 
 ---
 
-## 🗂️ Project Structure
-
