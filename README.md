@@ -10,7 +10,7 @@ It detects a specific color from the webcam feed and draws a green bounding box 
 > The program uses your webcam to detect the specified color (default: blue).  
 > You can change the target color in the code.
 
-![Color Detection Example](https://github.com/yourusername/Project-Color-Detection/assets/example.gif)
+![Color Detection Example](https://github.com/user-attachments/assets/560c6c34-ac94-486b-ba78-d218de881bcd)
 
 ---
 
